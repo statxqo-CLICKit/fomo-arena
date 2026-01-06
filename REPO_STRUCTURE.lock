@@ -1,0 +1,14 @@
+FOMO Arena Repository Structure - LOCKED
+
+index.html      # Main web page
+app.js          # JS frontend for NFT minting
+style.css       # Styling
+README.md       # Project description
+LICENSE.md      # License
+.gitignore      # Optional
+
+# RULES
+# 1. All files must remain in root.
+# 2. Filenames are case-sensitive; do not change.
+# 3. No extra files or folders unless added explicitly later.
+# 4. Branch: main only. No separate branches for production code.
