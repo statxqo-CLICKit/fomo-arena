@@ -1,35 +1,28 @@
-# F.O.M.O NFT Arena
+# F.O.M.O Arena
 
-F.O.M.O NFT Arena is an innovative NFT platform that combines blockchain ownership, interactive gaming, and real-world engagement.  
-The Paragon NFTs represent unique digital assets with layered utility across tiers, offering proof of ownership, proof of participation, and exclusive interaction opportunities.
+Welcome to **F.O.M.O Arena**, the next-level NFT experience combining **digital collectibles** with **real-world interaction**.  
 
----
+This platform is powered by **Paragon NFTs**—a patented, tiered system that gives users **proof of ownership, proof of participation**, and unique privileges depending on their NFT collection.  
 
 ## Features
 
-- **Paragon NFTs**: Unique digital assets with tiered utility (Low, Mid, High).  
-- **Hands-off Minting**: Fully automated NFT minting process based on live results and system logic.  
-- **Real-world Integration**: Connects digital assets to real-world sports and events (e.g., NFL, UFC, MLB).  
-- **Proof of Ownership**: Verified blockchain ownership for all minted NFTs.  
-- **Patented Mechanisms**: All systems, protocols, and NFT interactions are patented and fully secured.
+- Mint your **Paragon NFT** directly from the web app.
+- Track **total minted NFTs** in real-time.
+- Tiered NFT system:
+  - Low-tier, mid-tier, high-tier NFTs
+  - Owning multiple tiers unlocks exclusive **gameplay, rewards, and experiences**
+- **Blockchain + real-world integration**:
+  - Sports events, collectibles, exclusive access
+  - Interact with physical assets through NFT ownership
+- Hands-off user experience—**connect your wallet and mint instantly**  
 
----
+## How it Works
 
-## How It Works
+1. Connect your **MetaMask wallet**.
+2. Check **total minted supply**.
+3. Click **Mint** to receive your Paragon NFT.
+4. Enjoy access to tiered experiences and rewards.
 
-1. Connect your wallet via MetaMask.  
-2. Mint your Paragon NFTs according to availability and eligibility.  
-3. Ownership across tiers unlocks advanced functionalities:
-    - Low-tier NFTs: entry-level interactions.  
-    - Mid-tier NFTs: enhanced access and influence in the Arena.  
-    - High-tier NFTs: complete control and access to exclusive events.  
-4. Owning a set across tiers can unlock full business or interactive privileges within the F.O.M.O ecosystem.  
-5. Real-world tie-ins provide additional gamified engagement and social proof.
+## License
 
----
-
-## Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/statxqo-CLICKit/fomo-nft-arena.git
+This project is licensed under the **MIT License**. See [LICENSE.md](LICENSE.md) for details.
