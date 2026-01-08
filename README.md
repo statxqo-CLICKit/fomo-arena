@@ -1,3 +1,14 @@
+# FOMO Arena 🚀
+
+**The Arena is Now Live!**  
+
+Access the live FOMO Arena here: [https://statxqo-clickit.github.io/fomo-arena/](https://statxqo-clickit.github.io/fomo-arena/)
+
+FOMO Arena is a **live competitive NFT arena** where Paragon NFT holders can participate in real-world linked events, compete across tiers, and build reputation on-chain.  
+This is **not just minting — this is competitive infrastructure** with proof of ownership, proof of participation, and tiered mechanics to maximize strategy and FOMO.  
+
+Jump in now — the Arena is open and your positioning matters.
+
 # F.O.M.O Arena
 
 Welcome to **F.O.M.O Arena**, the next-level NFT experience combining **digital collectibles** with **real-world interaction**.  
