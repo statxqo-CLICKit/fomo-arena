@@ -21,3 +21,6 @@ Thumbs.db
 
 # VSCode settings
 .vscode/
+mcp.config.json
+.env
+*.token
